@@ -18,8 +18,8 @@ mail_settings = {
     "MAIL_PORT":'465',
     "MAIL_USE_SSL":True,
     "MAIL_USE_TLS": False,  # Enable TLS encryption
-    "MAIL_USERNAME":'cgupta_be21@thapar.edu',
-    "MAIL_PASSWORD":'garz bugk ggjv kcnf'
+    "MAIL_USERNAME":'kgupta11_be21@thapar.edu',
+    "MAIL_PASSWORD":'ifnsmpeo[a idnfvposd'
 }
 
 app.config.update(mail_settings)
